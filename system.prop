@@ -1,0 +1,4 @@
+ro.display.series=Realme C25Y
+ro.product.board=ums512
+ro.board.platform=ums512
+ro.boot.dynamic_partitions=true
