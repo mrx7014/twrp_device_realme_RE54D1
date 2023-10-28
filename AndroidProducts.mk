@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_RE54D1.mk
+    $(LOCAL_DIR)/twrp_RE54D1.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_RE54D1-user \
-    omni_RE54D1-userdebug \
-    omni_RE54D1-eng
+    twrp_RE54D1-user \
+    twrp_RE54D1-userdebug \
+    twrp_RE54D1-eng
